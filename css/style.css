@@ -4,6 +4,7 @@ body {
     width: 100%;
     margin: 0;
     padding: 0;
+    background-color: bisque;
 }
 
 header {
@@ -34,7 +35,7 @@ header {
 }
 
 #menu a:hover {
-    color: green;
+    color: brown;
 }
 
 #top h1,
@@ -42,6 +43,7 @@ header {
 #top p {
     text-align: center;
     margin: 0;
+    background-color: #03adfc;
 }
 
 main {
@@ -57,8 +59,8 @@ section {
 
 section h1 {
     font-size: 18px;
-    border-left: 15px navy solid;
-    border-bottom: 1px navy solid;
+    border-left: 15px red solid;
+    border-bottom: 1px red solid;
     padding-left: 10px;
 }
 
